@@ -1,0 +1,24 @@
+{
+  "name": "electron-nedb-login",
+  "version": "1.0.0",
+  "description": "A simple login app using electron and nedb database. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannie411/electron-nedb-login.git"
+  },
+  "author": "Manuel Imoh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mannie411/electron-nedb-login/issues"
+  },
+  "homepage": "https://github.com/mannie411/electron-nedb-login#readme",
+  "dependencies": {
+    "electron": "^1.6.10",
+    "jquery": "^3.2.1",
+    "nedb": "^1.8.0"
+  }
+}
